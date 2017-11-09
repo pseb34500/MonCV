@@ -1,0 +1,143 @@
+<!doctype HTML>
+<html>
+<head>
+<style>
+body{
+background: url("http://www.docteur-pc33.fr/wp-content/uploads/2014/02/R%C3%A9cuperation-de-Donn%C3%A9es-D%C3%A9pannage-Informatique-et-R%C3%A9parations-Pc.jpeg")fixed;
+border: solid 2px #fff;
+}
+h1{
+text-align: center;
+font-size: 60px;
+}
+h2{
+text-align: center;
+}
+
+#navbar{
+	background-color: grey;
+	width:500px;
+	height:20px;
+	border: solid 3px #000;
+	text-align:center;
+	color:blue;
+	margin:auto;
+}
+
+#navbar a:hover{
+	color:green;
+}
+
+#perso{
+    width:500px;
+    margin:auto;
+    text-align:center;
+}
+#perso li{
+	display: inline;
+        margin:auto;
+        width:500px;
+}
+#cpt{
+	border:2px solid;
+	background:grey;
+	width: 500px;
+        margin:auto;
+}
+
+#exp{
+        
+	text-align:center;
+	background-color: grey;
+	width:500px;
+	border: 2px solid;
+	margin:auto;
+
+}
+
+#loi{
+
+	margin:auto;
+	background-color: grey;
+	width:500px;
+	text-align: center;
+	border: 2px solid #000;
+
+}
+#loi p {
+	margin-right: 50px;
+}
+#form{
+	margin-top: 10px;
+	background-color: grey;
+	width: 500px;
+	border: 2px solid #000;
+        margin:auto;
+}
+#form p {
+	margin-left: 10px;
+	text-align:center;
+}
+
+</style>
+<title>CV</title>
+</head>
+
+<body>
+<h1>Mon CV</h1>
+<header>
+
+<nav id="navbar">
+<a href="#cpt">Competences</a>
+<a href="#exp">Experiences</a>
+<a href="#form">Formations</a>
+<a href="#loi">Loisirs</a>
+</nav>
+</header>
+
+<section id="perso">
+<ul>
+	<li>PELLETIER</li>
+	<li>Sébastien</li>
+	<li>BEZIERS</li>
+</ul>
+</section>
+
+<section id="cpt">
+<h2><em>Compétences</em></h2>
+<ul>
+<li>Conaissances de base en  language informatique html css php</li>
+<li>Administration réseau</li>
+<li>Control et depannage à distance </li>
+<li>Intégration logiciels et materiels </li>
+<li>Anglais corect</li>
+<li>Gestion de parc informatique </li>
+</ul>
+</section>
+
+<section class="right">
+<section id="exp">
+<h2><em>Experiences</em></h2>
+<p>Administrateur réseau 1 an Lycée Henri IV </p>
+<p>Dépannage 5 ans</p>
+<p>Créateur site internet <a href="http://www.prepablbeziers.fr"> www.prepablbeziers.fr</a> </p>
+</section>
+</section>
+
+<section id="form">
+<h2><em>Formations</em> </h2>
+<p><strong>BAC PRO MRIM:</strong> Lycée Jean Moulin Béziers 2010</p>
+<p><strong>BEP ELECTRONIQUE:</strong> Lycée Jean Moulin Béziers 2008 </p>
+</section>
+
+
+<section id="loi">
+<h2><em>Loisirs</em></h2>
+<p><strong>Jeux vidéo:</strong> Jeux de Rôle, Stratégique, Gestion </p>
+<p><strong>Veille Technologique:</strong> Openclassrooms, Commentçamarche, 01 Net </p>
+
+</section>
+
+
+</body>
+</html>

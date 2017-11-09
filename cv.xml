@@ -1,0 +1,55 @@
+<cv>
+<infoperso>
+	<nom>
+	  <texte>
+		<lettre>
+			<police>
+				<taille>
+				  <caracter>p</caracter>
+				</taille>
+			</police>
+		</lettre>
+			
+	  </texte>	
+	</nom>
+	<prenom>
+          <texte>Sebastien </texte>
+        </prenom>
+	<adresse>
+          <texte> </texte>
+        </adresse>
+</infoperso>
+<titre></titre>
+<competence>
+	<listcompetence>
+		<comp1>
+		   <texte> </texte>
+		</comp1>
+		<comp2>
+		   <texte> </texte>
+		</comp2>
+		<comp3>
+                    <texte> </texte>
+                </comp3>
+		<compx>
+		    <texte></texte>
+		</compx>
+	</listcompetence>
+</competence>
+<experience>
+	<listeexp>
+		<xp1>
+		     <texte> </texte>
+		</xp1>
+		<xp2>
+		     <texte> </texte>
+                </xp2>
+		<xp3>
+		     <texte> </texte>
+		</xp3>
+		<xpx>
+                     <texte> </texte>
+                </xpx>
+	</listeexp>
+</experience>
+</cv>

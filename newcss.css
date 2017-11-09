@@ -1,0 +1,124 @@
+body{
+background: url("http://www.docteur-pc33.fr/wp-content/uploads/2014/02/R%C3%A9cuperation-de-Donn%C3%A9es-D%C3%A9pannage-Informatique-et-R%C3%A9parations-Pc.jpeg")fixed;
+
+}
+h1{
+text-align: center;
+font-size: 70px;
+color:#fff;
+}
+h2{
+	color:#217099;
+text-align: center;
+}
+
+#navbar{
+	top:10px;
+	width:100%;
+	height:20px;
+	text-align:center;
+	margin:auto;
+}
+#navbar a{width:20%;
+background-color:#000;
+}
+#cpt{
+	border:2px solid #217099;
+	background:#000;
+	color:#fff;
+	width: 500px;
+  left:3%;
+	margin-top:50px;
+	position:absolute;
+}
+
+#cpt:hover{
+	border:2px solid #217099;
+	background:#fff;
+	color:#000;
+	width: 500px;
+  left:3%;
+	margin-top:50px;
+	position:absolute;
+
+}
+#perso{
+	text-align: center;
+	position: absolute;
+	margin: 260px 0px 0px 540px;
+	color:#fff;
+	}
+#perso li{
+	display:inline;
+}
+
+#exp{
+  position: absolute;
+	text-align:center;
+	background-color:#000;
+	width:500px;
+	color:#fff;
+	border: 2px solid #217099;
+	right:3%;
+	margin-top: 70px;
+
+}
+#exp:hover{
+  position: absolute;
+	text-align:center;
+	background-color:#fff;
+	width:500px;
+	color:#000;
+	border: 2px solid #217099;
+	right:3%;
+	margin-top: 70px;
+
+}
+
+#loi{
+	position:absolute;
+	background-color: #000;
+	color:#fff;
+	width:500px;
+	text-align: center;
+	border: 2px solid #217099;
+	right:3%;
+	margin-top: 400px;
+}
+#loi:hover{
+	position:absolute;
+	background-color: #fff;
+	color:#000;
+	width:500px;
+	text-align: center;
+	border: 2px solid #217099;
+	right:3%;
+	margin-top: 400px;
+}
+
+#loi p {
+	padding-bottom: 10px;
+	margin:auto;
+}
+#form{
+	position: absolute;
+	margin-top: 400px;
+	background-color:#000;
+	color:#fff;
+	width: 500px;
+	border: 2px solid #217099;
+  left:3%;
+}
+#form:hover{
+	position: absolute;
+	margin-top: 400px;
+	background-color:#fff;
+	color:#000;
+	width: 500px;
+	border: 2px solid #217099;
+  left:3%;
+}
+#form p {
+	margin-left: 10px;
+	text-align:center;
+}
